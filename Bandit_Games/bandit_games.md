@@ -22,7 +22,7 @@ $ cat readme
 boJ9jbbUNNfktd78OOpsqOltutMc3MY1
 ```
 
-* Answer - [boJ9jbbUNNfktd78OOpsqOltutMc3MY1]
+**Answer - boJ9jbbUNNfktd78OOpsqOltutMc3MY1**
 
 ### Level 1
 
@@ -35,7 +35,7 @@ $ cat ./-
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 ```
 
-* Answer - [CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9]
+**Answer - CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9**
 
 ### Level 2
 
@@ -48,7 +48,7 @@ $ cat spaces\ in\ this\ filename
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 ```
 
-* Answer - [UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK]
+**Answer - UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK**
 
 ### Level 3
 
@@ -64,7 +64,7 @@ $ cat .hidden
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ```
 
-* Answer - [pIwrPrtPN36QITSp3EQaw936yaFoFgAB]
+**Answer - pIwrPrtPN36QITSp3EQaw936yaFoFgAB**
 
 ### Level 4
 
@@ -106,7 +106,7 @@ $ cat ./-file07
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```
 
-* Answer - [koReBOKuIDDepwhWk7jZC0RTdopnAYKh]
+**Answer - koReBOKuIDDepwhWk7jZC0RTdopnAYKh**
 
 ### Level 5
 
@@ -135,7 +135,7 @@ $ cat ./maybehere07/.file2
 DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 ```
 
-* Answer - [DXjZPULLxYr17uwoI01bNLQbtFemEgo7]
+**Answer - DXjZPULLxYr17uwoI01bNLQbtFemEgo7**
 
 ### Level 6
 
@@ -176,7 +176,7 @@ $ cat ./var/lib/dpkg/info/bandit7.password
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 ```
 
-* Answer - [HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs]
+**Answer - HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs**
 
 ### Level 7
 
@@ -189,7 +189,7 @@ $ cat data.txt | grep millionth
 millionth  cvX2JJa4CFALtqS87jk27qwqGhBM9plV
 ```
 
-* Answer - [cvX2JJa4CFALtqS87jk27qwqGhBM9plV]
+**Answer - cvX2JJa4CFALtqS87jk27qwqGhBM9plV**
 
 ### Level 8
 
@@ -202,7 +202,7 @@ $ sort data.txt | uniq -u
 UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 ```
 
-* Answer - [UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR]
+**Answer - UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR**
 
 ### Level 9
 
@@ -218,7 +218,7 @@ J========== the
 W========== truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
 ```
 
-* Answer - [truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk]
+**Answer - truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk**
 
 ### Level 10
 
@@ -231,7 +231,7 @@ $ base64 -d data.txt
 The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 ```
 
-* Answer - [IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR]
+**Answer - IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR**
 
 ### Level 11
 
@@ -244,7 +244,7 @@ $ cat data.txt | tr '[a-z][A-Z]' '[n-za-m][N-ZA-M]'
 The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 ```
 
-* Answer - [5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu]
+**Answer - 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu**
 
 ### Level 12
 
@@ -296,7 +296,7 @@ $ cata data8
 The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 ```
 
-* Answer - [8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL]
+**Answer - 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL**
 
 ### Level 13
 
@@ -310,7 +310,7 @@ $ cat /etc/bandit_pass/bandit14
 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 ```
 
-* Answer - [4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e]
+**Answer - 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e**
 
 ### Level 14
 
@@ -328,7 +328,7 @@ Correct!
 BfMYroe26WYalil77FoDi9qh59eK5xNr
 ```
 
-* Answer - [BfMYroe26WYalil77FoDi9qh59eK5xNr]
+**Answer - BfMYroe26WYalil77FoDi9qh59eK5xNr**
 
 ### Level 15
 
@@ -346,7 +346,7 @@ Correct!
 cluFn7wTiGryunymYOu4RcffSxQluehd
 ```
 
-* Answer - [cluFn7wTiGryunymYOu4RcffSxQluehd]
+**Answer - cluFn7wTiGryunymYOu4RcffSxQluehd**
 
 ### Level 16
 
@@ -428,7 +428,7 @@ $ cat passwords.new | grep kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
 kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd
 ```
 
-* Answer - [kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd]
+**Answer - kfBf3eYk5BPBRzwjqutbbfE887SVc5Yd**
 
 ### Level 18
 
@@ -439,7 +439,7 @@ $ ssh -p 2220 bandit18@bandit.labs.overthewire.org 'cat readme'
 IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x
 ```
 
-* Answer - [IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x]
+**Answer - IueksS7Ubh8G3DCwVzrTd8rAVOwq3M5x**
 
 ### Level 19
 
@@ -450,7 +450,7 @@ $ ./bandit20-do cat /etc/bandit_pass/bandit20
 GbKksEFF4yrVs6il55v6gwY5aVje5f0j
 ```
 
-* Answer - [GbKksEFF4yrVs6il55v6gwY5aVje5f0j]
+**Answer - GbKksEFF4yrVs6il55v6gwY5aVje5f0j**
 
 ### Level 20
 
@@ -473,7 +473,7 @@ Correct!
 gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr
 ```
 
-* Answer - [gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr]
+**Answer - gE269g2h3mw3pwgrj0Ha9Uoqen1c9DGr**
 
 ### Level 21
 
@@ -497,7 +497,7 @@ $ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI
 ```
 
-* Answer - [Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI]
+**Answer - Yk7owGAcWjwMVRwrTesJEwB7WVOiILLI**
 
 ### Level 22
 
@@ -544,7 +544,7 @@ $ cat /tmp/8ca319486bfbbc3663ea0fbe81326349
 jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n
 ```
 
-* Answer - [jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n]
+**Answer - jc1udXuA1tiHqjIsL8yaapX5XIAI6i0n**
 
 ### Level 23
 
@@ -596,7 +596,7 @@ $ cat contents.txt
 UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ
 ```
 
-* Answer - [UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ]
+**Answer - UoMYTrfrBFHyQXmg6gzctqAwOmw1IohZ**
 
 ### Level 24
 
@@ -626,7 +626,7 @@ Correct!
 uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG
 ```
 
-* Answer - [uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG]
+**Answer - uNG9O58gUE7snukf3bvZ0rxhtnjzSGzG**
 
 ### Level 25
 
@@ -658,7 +658,7 @@ It will open the vim editor, after that execute-
 
 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z
 ```
-* Answer - [5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z]
+**Answer - 5czgV9L3Xx8JPOyRbXh6lQbmIOWvPT6Z**
 
 ### Thanks
 ### License

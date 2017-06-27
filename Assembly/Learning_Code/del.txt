@@ -1,0 +1,11 @@
+yash ek cheez puchni thi..
+I am trying to find a flag in a compiled executable file.
+The flag is m4Nd1R_w4h1_b4n4Y3ng3
+When I use strings command, it doesn't output it.
+When I cat the file in terminal.
+output - Enter the password here:Congrats!! You got the flagm4Nd1R_w4h1_b4n4Y3ng3Lol....!!! (with some executable shit).
+
+When I open the file in editor (vim)
+output - Congrats!! You got the flag^@^@^@^@m^@^@^@4^@^@^@N^@^@^@d^@^@^@1^@^@^@R^@^@^@_^@^@^@w^@^@^@4^@^@^@h^@^@^@1^@^@^@_^@^@^@b^@^@^@4^@^@^@n^@^@^@4^@^@^@Y^@^@^@3^@^@^@n^@^@^@g^@^@^@3^@^@^@^@^@^@^@Lol....!!!
+
+Why does cat give different ouput than editor?
